@@ -1,0 +1,1012 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR adler22a Participant, INV Investigator
+@ID:	eng|Adler|PAR|51;02.|male|NotAphasicByWAB||Participant||93.8|
+@ID:	eng|Adler|INV|||||Investigator|||
+@Media:	adler22a, video
+@G:	Speech
+*INV:	I'm gonna be asking you to do some talking . 0_3359
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to aux|be part|ask-PRESP
+	pro|you inf|to v|do qn|some n:gerund|talk-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|AUX 6|3|XCOMP 7|6|OBJ 8|9|INF
+	9|6|XCOMP 10|11|QUANT 11|9|OBJ 12|3|PUNCT
+*PAR:	+< &=head:yes mhm . 3059_3826
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how do you think your speech is these days ? 3826_6229
+%mor:	adv:wh|how mod|do pro|you v|think pro:poss:det|your n|speech
+	cop|be&3S det|these n|day-PL ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|PRED 10|4|PUNCT
+*PAR:	hm &=head:yes pretty good hm I can [//] ɛs@u [: guess] [* p:n]
+	&=shrugs . 6229_9613
+%mor:	co|hm adv|pretty adj|good co|hm pro:sub|I v|guess .
+%gra:	1|3|COM 2|3|JCT 3|6|LINK 4|3|COM 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	I was tested &wh when I &uh first had my stroke and after I (h)ad
+	the stroke <they said> [//] they &=hand:recording did a tape of me
+	and they said they could understand &=head:yes ninety percent of
+	what &=ges:shrugs I said . 9613_20676
+%mor:	pro:sub|I aux|be&PAST&13S part|test-PASTP conj|when pro:sub|I
+	adv|first v|have&PAST pro:poss:det|my n|stroke coord|and conj|after
+	pro:sub|I v|have&PAST art|the n|stroke pro:sub|they v|do&PAST art|a
+	n|tape prep|of pro:obj|me coord|and pro:sub|they v|say&PAST
+	pro:sub|they mod|could v|understand det:num|ninety n|percent prep|of
+	pro:wh|what pro:sub|I v|say&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|CJCT 8|9|MOD
+	9|7|OBJ 10|3|CONJ 11|13|LINK 12|13|SUBJ 13|10|COORD 14|15|DET 15|13|OBJ
+	16|17|SUBJ 17|15|XMOD 18|19|DET 19|17|OBJ 20|19|NJCT 21|20|POBJ 22|17|CONJ
+	23|24|SUBJ 24|22|COORD 25|27|SUBJ 26|27|AUX 27|24|COMP 28|29|QUANT
+	29|27|OBJ 30|29|NJCT 31|30|POBJ 32|33|SUBJ 33|27|COMP 34|3|PUNCT
+*PAR:	so &=ges:shrugs &=head:yes +... 20676_22108
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	oh good . 22108_23331
+%mor:	co|oh adj|good .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+@G:	Stroke
+*INV:	do you remember when you had your stroke ? 23331_25383
+%mor:	mod|do pro|you v|remember conj|when pro|you v|have&PAST
+	pro:poss:det|your n|stroke ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|MOD 8|6|OBJ
+	9|3|PUNCT
+*PAR:	hm I had &m two mini strokes and &th then a major stroke . 25383_30805
+%mor:	co|hm pro:sub|I v|have&PAST det:num|two n|mini n|stroke-PL
+	coord|and adv:tem|then art|a adj|major n|stroke .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|OBJ 7|3|CONJ 8|11|JCT
+	9|11|DET 10|11|MOD 11|7|COORD 12|3|PUNCT
+*PAR:	<the mini stroke> [//] <I had> [/] I had the aphasia after the &mi
+	first &=hand:one mini stroke (be)cause I [/] &=hand:grasps &f I
+	found I couldn't read . 30805_39499
+%mor:	pro:sub|I v|have&PAST art|the n|aphasia prep|after art|the
+	adj|first n|mini n|stroke conj|because pro:sub|I v|find&PAST
+	pro:sub|I mod|could~neg|not v|read&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|12|COMP 17|2|PUNCT
+*PAR:	and then the other one the last stroke the third one I lost
+	&=shows:hand you_know the +... 39499_44392
+%mor:	coord|and adv:tem|then art|the qn|other pro:indef|one art|the
+	adj|last n|stroke art|the n|third pro:indef|one pro:sub|I
+	v|lose&PAST co|you_know art|the +...
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|QUANT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|DET 10|8|INCROOT 11|13|LINK 12|13|SUBJ 13|10|ROOT 14|13|COM 15|16|DET
+	16|13|PUNCT
+*PAR:	I would +//. 44392_44908
+%mor:	pro:sub|I mod|will&COND +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	you +//. 44908_45376
+%mor:	pro|you +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I had the &=points:hand use of this hand at the time but I lost
+	&=grabs:hand use o(f) sʌ@u [: the] [* p:n] hand with <the other>
+	[//] &s the last stroke . 45376_51761
+%mor:	pro:sub|I v|have&PAST art|the n|use prep|of det|this n|hand prep|at
+	art|the n|time conj|but pro:sub|I v|lose&PAST n|use prep|of art|the
+	n|hand prep|with art|the adj|last n|stroke .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|2|CJCT 14|13|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|13|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|2|PUNCT
+*INV:	mhm . 51761_52462
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&um what are your first memories after your major stroke ? 52462_56833
+%mor:	det:wh|what aux|be&PRES pro:poss:det|your adj|first n|memory-PL
+	prep|after pro:poss:det|your adj|major n|stroke ?
+%gra:	1|2|JCT 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|5|NJCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	&uh &ee it was foggy . 56833_60008
+%mor:	pro|it cop|be&PAST&13S adj|fog&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh &=exhales I was out of it for (.) couple days . 60008_64152
+%mor:	pro:sub|I aux|be&PAST&13S adv|out prep|of pro|it prep|for n|couple
+	n|day-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|POBJ 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*PAR:	I had like two or three days (un)til it really came . 64152_66771
+%mor:	pro:sub|I v|have&PAST co|like det:num|two coord|or det:num|three
+	n|day-PL prep|until pro|it adv|real&dadj-LY v|come&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|11|QUANT 5|11|LINK 6|7|QUANT 7|11|SUBJ
+	8|7|NJCT 9|8|POBJ 10|11|JCT 11|2|COMP 12|2|PUNCT
+*PAR:	I don't know &=ges:shrugs why . 66771_67402
+%mor:	pro:sub|I mod|do~neg|not v|know adv:wh|why .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	some back home or whatever you wanna call it . 67402_69473
+%mor:	pro:indef|some adv|back n|home coord|or pro:wh|whatever pro|you
+	v|want~inf|to v|call pro|it .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|7|OBJ 6|7|SUBJ 7|4|CONJ
+	8|9|INF 9|7|XCOMP 10|9|OBJ 11|1|PUNCT
+*PAR:	but yeah &uh &=ges:shrugs &i it's [//] &uh my first memory is &uh I
+	remember &uh doing things with therapists . 69473_80058
+%mor:	conj|but co|yeah pro:poss:det|my adj|first n|memory cop|be&3S
+	pro:sub|I co|remember n:gerund|do-PRESP n|thing-PL prep|with
+	n|therapist-PL .
+%gra:	1|6|LINK 2|6|COM 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|9|COM
+	9|7|XMOD 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|6|PUNCT
+*PAR:	they were [//] &um had me walk, you_know get up and around walking
+	. 80058_85094
+%mor:	pro:sub|they v|have&PAST pro:obj|me n|walk cm|cm co|you_know v|get
+	adv|up coord|and adv|around part|walk-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|4|LP 6|7|COM 7|4|XMOD 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|POBJ 12|2|PUNCT
+*PAR:	and you_know I [/] &t I <use(d) to have a> [//] used to use a cane
+	for very very short while [/] while . 85094_90900
+%mor:	coord|and co|you_know pro:sub|I v|use-PAST inf|to v|use art|a
+	n|cane prep|for adv|very adv|very adj|short n|while .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|12|JCT 11|12|JCT 12|13|MOD 13|9|POBJ 14|4|PUNCT
+*PAR:	(be)cause it happene(d) ten years ago . 90900_92769
+%mor:	conj|because pro|it v|happen-PAST det:num|ten n|year-PL adv|ago .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	so &uh &=ges:shrugs well and the other [/] &m other &uh thing is I
+	remember you_know doing [/] doing tests with the [/] &uh the speech
+	therapist . 92769_103788
+%mor:	adv|so adv|well coord|and art|the qn|other n|thing cop|be&3S
+	pro:sub|I v|remember co|you_know part|do-PRESP n|test-PL prep|with
+	art|the n|speech n|therapist .
+%gra:	1|7|COM 2|1|JCT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|9|SUBJ
+	9|7|PRED 10|12|COM 11|12|MOD 12|9|JCT 13|9|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|7|PUNCT
+*PAR:	+< mhm . 103517_103954
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< you_know like that &t test that I told you about those speaking
+	&=hand:speaking and +... 103717_107584
+%mor:	co|you_know prep|like pro:dem|that v|test rel|that pro:sub|I
+	v|tell&PAST pro|you prep|about pro:dem|those part|speak-PRESP
+	coord|and +...
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|11|OBJ 13|4|PUNCT
+*INV:	right right . 107584_108985
+%mor:	adv|right n|right .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	&um tell me about your recovery . 108985_111011
+%mor:	v|tell pro:obj|me prep|about pro:poss:det|your n|recovery .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*INV:	<what kinds of things> [//] what other kinds of things have you
+	done to try to get better since your stroke ? 111011_115758
+%mor:	pro:wh|what qn|other n|kind-PL prep|of n|thing-PL v|have pro|you
+	part|do&PASTP inf|to v|try inf|to v|get adj|good&CP prep|since
+	pro:poss:det|your n|stroke ?
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|5|CMOD 7|6|OBJ
+	8|7|XMOD 9|10|INF 10|8|XCOMP 11|12|INF 12|10|XCOMP 13|12|JCT 14|13|JCT
+	15|16|MOD 16|14|POBJ 17|1|PUNCT
+*PAR:	hm &=shrugs boy it seems &b well fɪzəlɪ@u [: physically]
+	[* p:n-rep] [/] <fɪzəlɪ@u [: physically] [* p:n-ret] it was> [/] &uh
+	&=clears_throat physically it was &uh +... 115758_128109
+%mor:	co|hm n|boy pro|it v|seem-3S adv|well adv|physical&dadj-LY pro|it
+	cop|be&PAST&13S +...
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*PAR:	you_know I [/] &g I told you I [/] &uh &c &uh came for a &=head:no
+	very very short time &m &l you_know i(n) order to keep my balance .
+	128109_134795
+%mor:	co|you_know pro:sub|I v|tell&PAST pro|you v|come&PAST prep|for
+	art|a adv|very adv|very adj|short n|time co|you_know prep|in n|order
+	inf|to v|keep pro:poss:det|my n|balance .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|8|DET 8|10|JCT
+	9|10|JCT 10|11|MOD 11|6|POBJ 12|5|XJCT 13|12|JCT 14|13|POBJ 15|16|INF
+	16|13|POBJ 17|18|MOD 18|16|OBJ 19|3|PUNCT
+*PAR:	<I was in> [//] I &p &i it was a +... 134795_137764
+%mor:	pro:sub|I pro|it cop|be&PAST&13S art|a +...
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	wouldn't been for long . 137764_138720
+%mor:	mod|will&COND~neg|not cop|be&PASTP prep|for adj|long .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	but I [//] my father passed &=hand:away away during the time I had
+	my major stroke &=laughs . 138720_144557
+%mor:	conj|but pro:poss:det|my n|father v|pass-PAST adv|away prep|during
+	art|the n|time pro:sub|I v|have&PAST co|my adj|major n|stroke .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|4|COMP 11|10|COM 12|13|MOD 13|10|JCT 14|4|PUNCT
+*PAR:	so I didn't &=hand:taps_table complete my program . 144557_149161
+%mor:	co|so pro:sub|I mod|do&PAST~neg|not v|complete pro:poss:det|my
+	n|program .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*PAR:	<so I> [//] &=hand:leave (be)cause I had to leave [/] leave <to
+	get> [//] to attend the funeral . 149161_152899
+%mor:	conj|because pro:sub|I v|have&PAST inf|to v|leave inf|to v|attend
+	art|the n|funeral .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	so &=ges:shrugs it was you_know +... 152899_155506
+%mor:	co|so pro|it cop|be&PAST&13S co|you_know +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+*PAR:	but &ah they said they could get me <in but> [//] back in but I
+	thought +"/. 155506_159358
+%mor:	conj|but pro:sub|they v|say&PAST pro:sub|they mod|could v|get
+	pro:obj|me adv|back adv|in conj|but pro:sub|I v|think&PAST +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|12|LINK 11|12|SUBJ 12|6|CJCT 13|6|PUNCT
+*PAR:	+" by then &=laughs just you_know &s &=shrugs +... 159358_162376
+%mor:	adv|by adv:tem|then adv|just co|you_know +...
+%gra:	1|4|JCT 2|4|JCT 3|2|JCT 4|0|INCROOT 5|4|PUNCT
+@G:	Important_Event
+*INV:	I'm gonna ask you to do a few more things where you
+	need to talk . 162376_166614
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|ask pro|you inf|to v|do
+	art|a qn|few qn|more n|thing-PL rel|where pro|you v|need prep|to
+	n|talk .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|8|INF 8|5|XCOMP
+	9|10|DET 10|12|QUANT 11|12|QUANT 12|8|OBJ 13|15|LINK 14|15|SUBJ
+	15|12|CMOD 16|15|JCT 17|16|POBJ 18|3|PUNCT
+*PAR:	mhm . 166614_167164
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	please talk as much as you can about each one (be)cause we're
+	interested in knowing about your language . 167164_172020
+%mor:	co|please n|talk prep|as qn|much prep|as pro|you n|can prep|about
+	qn|each pro:indef|one conj|because pro:sub|we~aux|be&PRES
+	part|interest-PASTP adv|in part|know-PRESP prep|about
+	pro:poss:det|your n|language .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|JCT 6|7|SUBJ 7|5|POBJ
+	8|4|NJCT 9|10|QUANT 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|2|CJCT
+	15|14|JCT 16|14|XJCT 17|16|JCT 18|19|MOD 19|17|POBJ 20|2|PUNCT
+*PAR:	mhm &=head:yes . 172020_172370
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 172370_173688
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	thinking back can you: tell me a story about something that [//]
+	important that happened to you in your life ? 173688_185754
+%mor:	part|think-PRESP adv|back mod|can pro|you v|tell pro:obj|me art|a
+	n|story prep|about pro:indef|something adj|important rel|that
+	v|happen-PAST prep|to pro|you prep|in pro:poss:det|your n|life ?
+%gra:	1|5|SUBJ 2|1|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|5|JCT 10|9|POBJ 11|10|CMOD 12|13|LINK 13|11|CMOD 14|13|JCT 15|14|POBJ
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|5|PUNCT
+*INV:	(thi)s could be happy or sad or from any time . 185754_188955
+%mor:	pro:dem|this mod|could cop|be adj|happy coord|or adj|sad coord|or
+	prep|from qn|any n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|10|QUANT 10|8|POBJ 11|3|PUNCT
+*INV:	when you were a kid or more recently . 188955_191645
+%mor:	conj|when pro|you cop|be&PAST art|a n|kid coord|or adv|more
+	adv|recent&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|3|PUNCT
+*PAR:	&uh: &=shrugs &uh: oh well you_know when I was a kid I would &y not
+	totally bad but this was &uh real young . [+ gram] 191645_206524
+%mor:	co|oh adv|well co|you_know conj|when pro:sub|I cop|be&PAST&13S
+	art|a n|kid pro:sub|I mod|will&COND neg|not adv|total&dadj-LY
+	adj|bad conj|but det|this cop|be&PAST&13S adj|real adj|young .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|PRED
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|8|NJCT 13|8|XMOD 14|13|OBJ 15|16|DET
+	16|14|COMP 17|18|MOD 18|16|PRED 19|2|PUNCT
+*PAR:	it was &l like about four years old . 206524_208430
+%mor:	pro|it cop|be&PAST&13S co|like prep|about det:num|four n|year-PL
+	adj|old .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|JCT 5|6|QUANT 6|4|POBJ 7|2|PRED 8|2|PUNCT
+*PAR:	maybe my first cognitive memory . 208430_211199
+%mor:	adv|maybe pro:poss:det|my adj|first adj|cognitive n|memory .
+%gra:	1|3|JCT 2|3|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	it's [//] <it was> [/] &uh &uh it was a fire in my &uh +... 211199_215512
+%mor:	pro|it cop|be&PAST&13S art|a n|fire prep|in pro:poss:det|my +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	ha, well I came out &=hand:out into the &l &uh kitchen . 215512_219361
+%mor:	co|ha cm|cm n|well pro:sub|I v|come&PAST adv|out prep|into art|the
+	n|kitchen .
+%gra:	1|5|COM 2|1|LP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	<and the> [//] and &th they [//] we had a roast on or something . 219361_222719
+%mor:	coord|and pro:sub|we v|have&PAST art|a n|roast adv|on coord|or
+	pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|5|CONJ 8|7|COORD
+	9|3|PUNCT
+*PAR:	and the roast was on fire . 222719_224281
+%mor:	coord|and art|the n|roast cop|be&PAST&13S prep|on n|fire .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	(be)cause it was all &=hands:smoke smoke and everything . 224281_226455
+%mor:	conj|because pro|it cop|be&PAST&13S adv|all n|smoke coord|and
+	pro:indef|everything .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+*PAR:	maybe that's &=ges:shrugs why I [/] &k I held on to that memory . 226455_229513
+%mor:	adv|maybe pro:dem|that~cop|be&3S adv:wh|why pro:sub|I v|hold&PAST
+	adv|on prep|to det|that n|memory .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|PRED 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	but &=shrugs you_know I remember that and call my father and
+	you_know he coming out to douse it or whatever . 229513_236655
+%mor:	conj|but co|you_know pro:sub|I co|remember det|that coord|and
+	v|call pro:poss:det|my n|father coord|and co|you_know pro:sub|he
+	part|come-PRESP adv|out inf|to v|douse pro|it coord|or
+	pro:wh|whatever .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|MOD
+	9|7|OBJ 10|13|LINK 11|13|COM 12|13|SUBJ 13|7|COMP 14|13|JCT 15|16|INF
+	16|13|XCOMP 17|16|OBJ 18|16|CONJ 19|18|COORD 20|4|PUNCT
+*PAR:	but &=ges:shrugs that's &eh and +... 236655_239500
+%mor:	conj|but pro:dem|that~cop|be&3S coord|and +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	you want another one or no ? 239500_240661
+%mor:	pro|you v|want qn|another pro:indef|one coord|or co|no ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*INV:	no that's a good one . 240661_241918
+%mor:	co|no pro:dem|that~cop|be&3S art|a adj|good pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	okay . 241918_242285
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's a good one . 242285_243602
+%mor:	pro:dem|that~cop|be&3S art|a adj|good pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+@G:	Window
+*INV:	&um now I'm gonna show you some pictures . 243602_247322
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|show pro|you
+	qn|some n|picture-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	these pictures tell a story . 247322_250961
+%mor:	det|these n|picture-PL v|tell art|a n|story .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	mhm . [+ exc] 250961_251345
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	take a look at them and when you're ready tell me the story you see
+	with a beginning a middle and an end . 251345_256643
+%mor:	v|take art|a v|look prep|at pro:obj|them coord|and conj|when
+	pro|you~cop|be&PRES adj|ready v|tell pro:obj|me art|the n|story
+	pro|you v|see prep|with art|a n|beginning art|a n|middle coord|and
+	art|a n|end .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|CONJ 7|9|LINK 8|9|SUBJ
+	9|6|COORD 10|11|MOD 11|9|PRED 12|11|OBJ 13|14|DET 14|11|OBJ 15|16|SUBJ
+	16|14|XMOD 17|16|JCT 18|19|DET 19|17|POBJ 20|21|DET 21|19|OBJ 22|21|CONJ
+	23|24|DET 24|22|COORD 25|1|PUNCT
+*PAR:	+< a begin +//? [+ exc] 256643_257353
+%mor:	art|a v|begin +//?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	you just go &=points:pictures +/? [+ exc] 257353_258628
+%mor:	pro|you adv|just v|go +/?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*INV:	+< and you can follow along with the story . 257719_260100
+%mor:	coord|and pro|you mod|can v|follow adv|along prep|with art|the
+	n|story .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	oh chronologically okay [/] okay . [+ exc] 259010_261245
+%mor:	co|oh adv|chronologic&dadj-AL-LY adj|okay .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*INV:	+< yeah . 260619_261130
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &mm [x 4] soccer &uh +... 261245_265335
+%mor:	n|soccer +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's sunny out . 265335_267118
+%mor:	pro|it~cop|be&3S adj|sun&dn-Y adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*PAR:	&uh &=points:picture_three &=laughs ball go white [: right] [* p:w]
+	through the window . 267118_271328
+%mor:	n|ball v|go adv|right prep|through art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and I don't know &l &mm &mm +... [+ exc] 271528_275665
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	ah &=points:picture_four hm I think that's a soccer ball but I
+	can't make it out totally . 275665_281046
+%mor:	co|ah co|hm pro:sub|I v|think pro:dem|that~cop|be&3S art|a n|soccer
+	n|ball conj|but pro:sub|I mod|can~neg|not v|make pro|it adv|out
+	adv|total&dadj-LY .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|6|CJCT 15|14|OBJ
+	16|14|JCT 17|14|JCT 18|6|PUNCT
+*PAR:	&eh &i the [//] a boy's playing soccer . 281046_283761
+%mor:	art|a n|boy~aux|be&3S part|play-PRESP n|soccer .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and there's you_know &m &b a yard you_know from the looks of the
+	grass . 283761_288184
+%mor:	coord|and pro:exist|there~cop|be&3S co|you_know art|a n|yard
+	co|you_know prep|from art|the v|look-3S prep|of art|the n|grass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|6|DET 6|3|PRED 7|6|COM 8|6|NJCT
+	9|10|DET 10|8|POBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	&uh through the &=hand:through window you_know the [//] &th from
+	the outside &=hand:through to the inside . 288184_293574
+%mor:	prep|through art|the n|window co|you_know prep|from art|the
+	adj|outside prep|to art|the adj|inside .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	you_know &=hand:through it smashed through the [/] &uh &lil the
+	window and [//] &uh the [/] the soccer ball . 293574_299829
+%mor:	co|you_know pro|it v|smash-PAST prep|through art|the n|window
+	art|the n|soccer n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|NJCT 10|3|PUNCT
+*PAR:	and &um &=points:picture_three &w well that [//] that's [//] but
+	you_know that's the wall [: ball] [* p:w] <going through the> [//]
+	&uh going through and in . 299829_308519
+%mor:	coord|and n|well conj|but co|you_know pro:dem|that~cop|be&3S
+	art|the n|ball part|go-PRESP adv|through coord|and adv|in .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|COM 5|6|SUBJ 6|2|CJCT 7|8|DET
+	8|6|PRED 9|8|XMOD 10|9|JCT 11|9|CONJ 12|11|COORD 13|1|PUNCT
+*PAR:	obviously &=points:picture_three the &=laughs guy was sitting there
+	just &r relaxing or reading &=ges:shrugs and watching t_v . 308519_313229
+%mor:	adv|obvious&dadj-LY art|the n|guy aux|be&PAST&13S part|sit-PRESP
+	adv|there adv|just part|relax-PRESP coord|or part|read-PRESP
+	coord|and part|watch-PRESP n|t_v .
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|XJCT
+	9|8|CONJ 10|9|COORD 11|10|CONJ 12|13|MOD 13|11|COORD 14|5|PUNCT
+*PAR:	and soccer ball &um &um &=hand:came_in came in and &uh
+	&=points:picture_three hit the lamp . 313229_317520
+%mor:	coord|and n|soccer n|ball v|come&PAST adv|in coord|and v|hit&ZERO
+	art|the n|lamp .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	&=ges:shrugs and I'm [/] &s I'm still &=points:picture_four &=sighs
+	&=head:no +... 317520_323417
+%mor:	coord|and pro:sub|I~cop|be&1S adv|still +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	I &i &uh &i it's sunshine . 323417_325700
+%mor:	pro:sub|I pro|it~aux|be&3S n|sunshine .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*PAR:	and I [//] yeah I mean it may &uh +... [+ exc] 325700_329666
+%mor:	coord|and co|yeah pro:sub|I v|mean pro|it mod|may +...
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*PAR:	the man is I guess returning the ball to the boy . 329666_333187
+%mor:	art|the n|man cop|be&3S pro:sub|I v|guess n:gerund|return-PRESP
+	art|the n|ball prep|to art|the n|boy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|5|OBJ 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	or &s you_know someone's in trouble &=laughs . 333187_336988
+%mor:	coord|or co|you_know pro:indef|someone~cop|be&3S prep|in n|trouble
+	.
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	+< &=laughs okay . 336988_338738
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Umbrella
+*INV:	(..) here are some more pictures that tell a story . 338738_346747
+%mor:	adv|here cop|be&PRES qn|some qn|more n|picture-PL rel|that v|tell
+	art|a n|story .
+%gra:	1|2|JCT 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*PAR:	mhm . [+ exc] 346747_347255
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< take a look at them and then tell me the story you see with a
+	beginning a middle and an end . 346747_351669
+%mor:	v|take art|a v|look prep|at pro:obj|them coord|and adv:tem|then
+	v|tell pro:obj|me art|the n|story pro|you v|see prep|with art|a
+	n|beginning art|a n|middle coord|and art|a n|end .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|CONJ 7|8|JCT 8|6|COORD
+	9|8|OBJ 10|11|DET 11|8|OBJ 12|13|SUBJ 13|8|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|18|DET 18|16|OBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|1|PUNCT
+*INV:	and you could &=points:pictures follow along with the pictures as
+	you tell the story . 351669_356107
+%mor:	coord|and pro|you mod|could v|follow adv|along prep|with art|the
+	n|picture-PL conj|as pro|you v|tell art|the n|story .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|13|DET 13|11|OBJ 14|4|PUNCT
+*PAR:	mkay . [+ exc] 356107_356657
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &m first [/] first one <a boy is> [//] mom is you_know saying
+	+"/. 356657_364002
+%mor:	adv|first det:num|one n|mom aux|be&3S co|you_know part|say-PRESP
+	+"/.
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|COM 6|0|ROOT 7|6|PUNCT
+*PAR:	+" &g gotta wear [* s:uk] your (um)brella . 364002_365609
+%mor:	mod:aux|gotta v|wear pro:poss:det|your n|umbrella .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	is [//] and the boy is +... 365609_367305
+%mor:	coord|and art|the n|boy cop|be&3S +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't think he &=laughs wants to wear [* s:uk] the umbrella . 367305_369387
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|he v|want-3S inf|to v|wear
+	art|the n|umbrella .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	&uh you don't know where but whatever . 369387_371978
+%mor:	pro|you mod|do~neg|not v|know adv:wh|where conj|but pro:wh|whatever
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|INCROOT 7|6|INCROOT
+	8|7|PUNCT
+*PAR:	&um [x 3] <it's rain> [//] &i <I guess> [//] I dunno [: don't know]
+	if it was raining or it started raining while &=points:picture_three
+	he's on the way to school . 371978_382690
+%mor:	pro:sub|I mod|do~neg|not v|know conj|if pro|it aux|be&PAST&13S
+	part|rain-PRESP coord|or pro|it v|start-PAST part|rain-PRESP
+	conj|while pro:sub|he~cop|be&3S prep|on art|the n|way prep|to
+	n|school .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|CONJ 10|11|SUBJ 11|9|COORD 12|11|OBJ 13|15|LINK 14|15|SUBJ 15|11|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|4|PUNCT
+*PAR:	obviously his back+pack he was on the way to school . 382690_385289
+%mor:	adv|obvious&dadj-LY pro:poss:det|his n|+n|back+n|pack pro:sub|he
+	cop|be&PAST&13S prep|on art|the n|way prep|to n|school .
+%gra:	1|3|JCT 2|3|MOD 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+*PAR:	and it's raining . 385505_386600
+%mor:	coord|and pro|it~aux|be&3S part|rain-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	&um I: guess it's raining hard now . 386600_389843
+%mor:	pro:sub|I v|guess pro|it~aux|be&3S part|rain-PRESP adv|hard adv|now
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|5|JCT 8|2|PUNCT
+*PAR:	<the drops are> [/] the drops are you_know bigger . 389843_393457
+%mor:	art|the n|drop-PL aux|be&PRES co|you_know adj|big-CP .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|COM 5|0|ROOT 6|5|PUNCT
+*PAR:	and (h)e's [//] you_know like &=ges:cover_head try to cover up his
+	head you_know to ward off the water . 393457_399787
+%mor:	coord|and co|you_know co|like v|try prep|to n|cover prep|up
+	pro:poss:det|his n|head co|you_know prep|to n|ward prep|off art|the
+	n|water .
+%gra:	1|4|LINK 2|4|COM 3|4|COM 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|COM 11|10|JCT 12|11|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	and &uh mom [//] when he comes home mom is well &n a little bit
+	annoyed (be)cause he's dripping wet and he didn't wear [* s:uk-rep]
+	[//] wanna rare [: wear] [* p:w-ret] [//] wear [* s:uk]
+	the umbrella . 399787_408932
+%mor:	coord|and conj|when pro:sub|he v|come-3S n|home n|mom aux|be&3S
+	adv|well art|a adj|little n|bit part|annoy-PASTP conj|because
+	pro:sub|he~aux|be&3S part|drip-PRESP part|wet&PASTP coord|and
+	pro:sub|he mod|do&PAST~neg|not v|want~inf|to v|wear art|the
+	n|umbrella .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|12|SUBJ 7|12|AUX 8|12|JCT
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|4|COMP 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CJCT 17|16|OBJ 18|17|CONJ 19|22|SUBJ 20|22|AUX 21|20|NEG
+	22|18|COORD 23|24|INF 24|22|XCOMP 25|26|DET 26|24|OBJ 27|4|PUNCT
+*PAR:	and I [/] I guess &=points:picture_six he decides to have a change
+	of heart and he wears [* s:uk] the umbrella . 408932_413054
+%mor:	coord|and pro:sub|I v|guess pro:sub|he v|decide-3S inf|to v|have
+	art|a n|change prep|of n|heart coord|and pro:sub|he v|wear-3S
+	art|the n|umbrella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|DET
+	16|14|OBJ 17|3|PUNCT
+*INV:	+< okay . 412684_413785
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Cat
+*INV:	(.) here's another picture that tells a story . 413785_419459
+%mor:	pro:exist|here~cop|be&3S qn|another n|picture rel|that v|tell-3S
+	art|a n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*INV:	look at everything that's happening . 419459_421268
+%mor:	v|look prep|at pro:indef|everything rel|that~aux|be&3S
+	part|happen-PRESP .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|1|PUNCT
+*INV:	and then tell me the story you see there with a beginning a middle
+	and an end . 421268_425332
+%mor:	coord|and adv:tem|then v|tell pro:obj|me art|the n|story pro|you
+	v|see adv|there prep|with art|a n|beginning art|a n|middle coord|and
+	art|a n|end .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|14|DET 14|12|OBJ 15|14|CONJ
+	16|17|DET 17|15|COORD 18|3|PUNCT
+*PAR:	(..) &mm well a cat is stuck up the tree . 425332_433607
+%mor:	co|well art|a n|cat aux|be&3S part|stick&PASTP prep|up art|the
+	n|tree .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and &uh maybe [/] maybe the &=points:girl little girl was [/] was
+	&uh you_know <playing [: riding] [* s:r-ret] the tricycle> [//]
+	drivin:g [: riding] [* s:r] the tricycle . 433607_443468
+%mor:	coord|and adv|maybe art|the adj|little n|girl cop|be&PAST&13S
+	co|you_know part|ride-PRESP art|the n|tricycle .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|COM 8|6|PRED
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*PAR:	&uh cat is in the tree . 443468_445327
+%mor:	n|cat cop|be&3S prep|in art|the n|tree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and &y &y &n &no not hanging anywhere . 445327_447657
+%mor:	coord|and neg|not part|hang-PRESP adv|anywhere .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|COORD 4|3|JCT 5|1|PUNCT
+*PAR:	I think he's just &=ges:shrugs content to be there . 447657_449910
+%mor:	pro:sub|I v|think pro:sub|he~aux|be&3S adv|just adj|content inf|to
+	cop|be adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|COMP 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|2|PUNCT
+*PAR:	I guess she [/] &m she made &=points:father her father try to go up
+	and get it . 449910_454330
+%mor:	pro:sub|I v|guess pro:sub|she v|make&PAST pro:poss:det|her n|father
+	v|try inf|to v|go adv|up coord|and v|get pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|XCOMP 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|OBJ 14|2|PUNCT
+*PAR:	&um and the &=points:bird birds are you_know &m &prob well probably
+	a spring &m robin or whatever . 454330_460603
+%mor:	coord|and art|the n|bird-PL aux|be&PRES co|you_know adv|well
+	adv|probable&dadj-LY art|a n|spring n|robin coord|or pro:wh|whatever
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|7|COM 6|5|JCT 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|CONJ 12|11|COORD 13|7|PUNCT
+*PAR:	&uh and &um &=points:firemen this [/] this depicts &um &uh &n &y &y
+	obviously he &c &=points:cat couldn't get it too far so they hadda
+	[: had to] call the <fire department> [/] &fi fire department to
+	reach him . 460603_475998
+%mor:	coord|and pro:dem|this v|depict-3S adv|obvious&dadj-LY pro:sub|he
+	mod|could~neg|not v|get pro|it adv|too adv|far conj|so pro:sub|they
+	v|have&PAST inf|to v|call art|the n|fire n|department inf|to v|reach
+	pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|8|OBJ 10|8|JCT 11|8|JCT 12|14|LINK 13|14|SUBJ 14|8|CJCT 15|16|INF
+	16|14|XCOMP 17|19|DET 18|19|MOD 19|16|OBJ 20|21|INF 21|19|XMOD 22|21|OBJ
+	23|3|PUNCT
+*PAR:	and &=points:dog I dunno [: don't know] there's a little bit o(f)
+	[/] of +... [+ exc] 475998_479272
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:exist|there~cop|be&3S
+	art|a adj|little n|bit prep|of +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|5|PUNCT
+*PAR:	I dunno [: don't know] w:hat part &=points:dog there [//] that this
+	is but &=points:dog you_know &m dog &um &uh you_know &uh probably
+	one of their dogs is &=ges:shrugs you_know just barking . 479272_488407
+%mor:	pro:sub|I mod|do~neg|not v|know pro:wh|what adj|part rel|that
+	pro:dem|this cop|be&3S conj|but co|you_know n|dog co|you_know
+	adv|probable&dadj-LY pro:indef|one prep|of pro:poss:det|their
+	n|dog-PL aux|be&3S co|you_know adv|just part|bark-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|XMOD 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|19|LINK 11|12|COM 12|19|SUBJ 13|12|COM 14|19|JCT 15|19|SUBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|9|PRED 20|22|COM 21|22|JCT 22|19|PRED
+	23|4|PUNCT
+*PAR:	barking &=points:cat for [//] (be)cause of the excitement of the
+	cat &p probably &=points:cat especially the cat and you_know Dad is
+	up there . 488407_495825
+%mor:	part|bark-PRESP conj|because prep|of art|the n|excitement prep|of
+	art|the n|cat adv|probable&dadj-LY adv|especial&dadj-LY art|the
+	n|cat coord|and co|you_know n:prop|Dad cop|be&3S adv|up adv|there .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|8|NJCT 11|12|DET 12|3|POBJ 13|16|LINK 14|16|COM 15|16|SUBJ
+	16|12|CMOD 17|16|JCT 18|17|POBJ 19|1|PUNCT
+*INV:	(o)kay . 495825_496541
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Flood
+*INV:	all right here's another picture . 496541_500576
+%mor:	pro:indef|all adv|right pro:exist|here~cop|be&3S qn|another
+	n|picture .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|4|PUNCT
+*INV:	take a look at this . 500576_502068
+%mor:	v|take art|a v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*INV:	and when you have a chance to figure out what's going on tell me
+	the story you see with a beginning a middle and an end . 502068_508745
+%mor:	coord|and conj|when pro|you v|have art|a n|chance inf|to v|figure
+	prep|out pro:wh|what~aux|be&3S part|go-PRESP adv|on v|tell
+	pro:obj|me art|the n|story pro|you v|see prep|with art|a n|beginning
+	art|a n|middle coord|and art|a n|end .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|JCT 10|9|POBJ 11|12|AUX 12|8|COMP 13|12|JCT 14|12|XJCT 15|14|OBJ
+	16|17|DET 17|14|OBJ 18|19|SUBJ 19|17|XMOD 20|19|JCT 21|22|DET 22|20|POBJ
+	23|24|DET 24|22|OBJ 25|24|CONJ 26|27|DET 27|25|COORD 28|4|PUNCT
+*PAR:	&uh <looks like [/] like> [//] looks like they were rafting or
+	something like that or [//] &uh (be)cause &m you_know they
+	&=points:picture have [/] have the life+preserver on . 508420_519750
+%mor:	v|look-3S conj|like pro:sub|they aux|be&PAST part|raft-PRESP
+	coord|or pro:indef|something prep|like pro:dem|that conj|because
+	co|you_know pro:sub|they v|have art|the n|+n|life+n|preserver adv|on
+	.
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|CONJ 7|6|COORD 8|7|NJCT
+	9|8|POBJ 10|13|LINK 11|13|COM 12|13|SUBJ 13|7|CJCT 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|1|PUNCT
+*PAR:	so I [/] I [//] you_know n:ot too many people go out with &=laughs
+	their life+preserver on . 519750_524466
+%mor:	co|so co|you_know neg|not adv|too qn|many n|person&PL v|go adv|out
+	prep|with pro:poss:det|their n|+n|life+n|preserver adv|on .
+%gra:	1|4|COM 2|4|COM 3|2|NEG 4|7|JCT 5|6|QUANT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|11|NJCT 13|7|PUNCT
+*PAR:	so &uh I think it [//] maybe they got &s swept up in a current or
+	something like that . 524466_531378
+%mor:	co|so pro:sub|I v|think adv|maybe pro:sub|they aux|get&PAST
+	part|sweep&PASTP adv|up prep|in art|a n|current coord|or
+	pro:indef|something prep|like pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|CONJ 13|12|COORD 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+*PAR:	&um &=points:man there's a man . 531378_533401
+%mor:	pro:exist|there~cop|be&3S art|a n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	&um &um I [/] I can't see +... [+ exc] 533401_536697
+%mor:	pro:sub|I mod|can~neg|not v|see +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&w &=points:woman <the woman is> [//] a woman's with him . 536697_539238
+%mor:	art|a n|woman~cop|be&3S prep|with pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	I guess . [+ exc] 539238_539720
+%mor:	pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know &=points:woman . [+ exc] 539720_540620
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	(be)cause I don't see a vest on her I'm thinking she may be
+	tryin(g) to <help him> [/] <help him> [/] help him you_know to
+	safety . 540620_548997
+%mor:	conj|because pro:sub|I mod|do~neg|not v|see art|a n|vest prep|on
+	pro:poss:det|her pro:sub|I~aux|be&1S part|think-PRESP pro:sub|she
+	mod|may aux|be part|try-PRESP inf|to v|help pro:obj|him co|you_know
+	prep|to n|safety .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|12|MOD 10|12|SUBJ 11|12|AUX 12|8|POBJ 13|16|SUBJ 14|16|AUX 15|16|AUX
+	16|12|COMP 17|18|INF 18|16|XCOMP 19|18|OBJ 20|18|COM 21|20|JCT 22|21|POBJ
+	23|5|PUNCT
+*PAR:	and I [/] I just can't make out &uh &=points:belt that buckle . 548997_553484
+%mor:	coord|and pro:sub|I adv|just mod|can~neg|not v|make adv|out
+	pro:dem|that v|buckle .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|9|SUBJ
+	9|6|COMP 10|6|PUNCT
+*PAR:	what's +//? [+ exc] 553484_553845
+%mor:	pro:wh|what~aux|be&3S +//?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	&uh &=points:belt <maybe that's> [/] &uh &=ges:shrugs &uh &=head:no
+	&uh maybe that's +... [+ exc] 553845_557921
+%mor:	adv|maybe pro:dem|that~aux|be&3S +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&w &uh sometimes they &=ges:strapping_belt wear [/] wear a &l
+	you_know &uh &uh like &=shows:wrist a <wrist thing that you_know it>
+	[//] wrist thing to &uh +... 557921_568866
+%mor:	adv|sometimes pro:sub|they v|wear art|a co|you_know prep|like art|a
+	n|wrist n|thing prep|to +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|COM 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|JCT 11|3|PUNCT
+*PAR:	and it comes off &=hand:off when you +... 568866_571594
+%mor:	coord|and pro|it v|come-3S adv|off conj|when pro|you +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|OBJ 7|5|PUNCT
+*PAR:	well &=points:belt it stays on but it [/] it [/] &um (.) it &uh
+	helps &=points:belt you &uh &uh +... 571594_580682
+%mor:	co|well pro|it v|stay-3S adv|on conj|but pro|it v|help-3S pro|you
+	+...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|3|PUNCT
+*PAR:	&w &=points:belt I don't forget [: remember] [* s:r] . [+ exc] 580682_583555
+%mor:	pro:sub|I mod|do~neg|not v|remember .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&m (.) it's +... [+ exc] 583555_586734
+%mor:	pro|it~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I [/] I [/] &j &=points:belt I just don't &=laughs know what's
+	<that's tolɪŋ@u [: x@n] [* n:uk] for> [>] . [+ exc] 586734_590503
+%mor:	pro:sub|I adv|just mod|do~neg|not v|know pro:wh|what~aux|be&3S
+	pro:dem|that~aux|be&3S neo|x prep|for .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|SUBJ 7|10|AUX 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|10|JCT 12|5|PUNCT
+*INV:	<okay it's fine> [<] . 588934_590211
+%mor:	co|okay pro|it~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	you_know &=points:belt I'm guessing it's for [/] for the rafting .
+	590490_594144
+%mor:	co|you_know pro:sub|I~aux|be&1S part|guess-PRESP pro|it~aux|be&3S
+	prep|for art|the part|raft-PRESP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	I [/] &uh I think &=points:water (be)cause the rapids they're
+	rafting . 594144_597242
+%mor:	pro:sub|I v|think conj|because art|the n:pt|rapids
+	pro:sub|they~aux|be&PRES part|raft-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|5|DET 5|8|JCT 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|2|PUNCT
+*INV:	okay all right . 597242_598984
+%mor:	co|okay qn|all n|right .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+@G:	Cinderella_intro
+*INV:	now I'm going to ask you to tell a story . 598984_602977
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|ask pro|you
+	inf|to v|tell art|a n|story .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|9|INF
+	9|6|XCOMP 10|11|DET 11|9|OBJ 12|4|PUNCT
+*INV:	do you know the story of Cinderella ? 602977_604734
+%mor:	mod|do pro|you v|know art|the n|story prep|of n:prop|Cinderella ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	yes . 604734_605156
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	this book might remind you of some of the details . 605156_609674
+%mor:	det|this n|book mod|might v|remind pro|you prep|of qn|some prep|of
+	art|the n|detail-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*INV:	take a look through the book . 609674_611793
+%mor:	v|take art|a v|look prep|through art|the n|book .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*INV:	and &um when you're finished I'll take &=hand:away the book away .
+	611793_616497
+%mor:	coord|and conj|when pro|you~cop|be&PRES part|finish-PASTP
+	pro:sub|I~mod|will v|take art|the n|book adv|away .
+%gra:	1|5|LINK 2|4|LINK 3|4|SUBJ 4|5|AUX 5|8|LINK 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|8|PUNCT
+*INV:	and ask you to tell me the story in your own words . 616497_619350
+%mor:	coord|and v|ask pro|you inf|to v|tell pro:obj|me art|the n|story
+	prep|in pro:poss:det|your adj|own n|word-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|5|JCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|2|PUNCT
+*PAR:	www . 619350_705813
+%exp:	looking through book
+*PAR:	&=exhales okay . 705813_706925
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 706925_707893
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now tell me as much of the story of Cinderella as you can . 707893_711661
+%mor:	adv|now v|tell pro:obj|me adv|as qn|much prep|of art|the n|story
+	prep|of n:prop|Cinderella conj|as pro|you mod|can .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|QUANT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|13|LINK 12|13|SUBJ 13|2|CJCT 14|2|PUNCT
+*INV:	and you can use any details you know about the story besides what
+	you saw in these pictures . 711661_716392
+%mor:	coord|and pro|you mod|can v|use qn|any n|detail-PL pro|you v|know
+	prep|about art|the n|story prep|besides pro:wh|what pro|you n|saw
+	prep|in det|these n|picture-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|15|OBJ 14|15|SUBJ 15|12|POBJ
+	16|8|JCT 17|18|DET 18|16|POBJ 19|4|PUNCT
+@G:	Cinderella
+*PAR:	&um story is about &uh a [/] &um a [/] a &g girl . 716419_724762
+%mor:	n|story cop|be&3S prep|about art|a n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	oh I guess a relatively young girl and you_know of marrying age . 724762_728649
+%mor:	co|oh pro:sub|I v|guess art|a adj|relative&dn-LY adj|young n|girl
+	coord|and co|you_know prep|of n:gerund|marry-PRESP n|age .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|10|POBJ 12|11|OBJ 13|3|PUNCT
+*PAR:	and <she was> [/] &uh she was very very &uh +... 728649_734268
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|very adv|very +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	her [/] her &=hand:three three godmothers [* s:uk] were very
+	domineering <to her and> [//] &uh towards her . 734268_740007
+%mor:	pro:poss:det|her det:num|three n|+n|god+n|mother-PL cop|be&PAST
+	adv|very part|domineer-PRESP prep|towards pro:obj|her .
+%gra:	1|3|MOD 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	and &uh she [/] &uh &=sighs she &uh &j &=exhales +... 740007_749120
+%mor:	coord|and pro:sub|she +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	I forget how the glass slipper plays into it . [+ exc] 749120_752867
+%mor:	pro:sub|I v|forget adv:wh|how art|the n|glass n|slipper n|play-PL
+	prep|into pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|COMP 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	&uh you_know I [//] the [//] I guess the tall &in &i &in +... 752867_759081
+%mor:	co|you_know pro:sub|I v|guess art|the adj|tall +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	all &ta well you_know +... 759081_760633
+%mor:	qn|all n|well co|you_know +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*PAR:	she [/] she gets [/] &g gets the slipper . 760633_763960
+%mor:	pro:sub|she v|get-3S art|the n|slipper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	alright forget how she gets the slipper . [+ exc] 763960_765960
+%mor:	co|alright v|forget adv:wh|how pro:sub|she v|get-3S art|the
+	n|slipper .
+%gra:	1|2|COM 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	but the slipper is magic so to speak . 765960_769079
+%mor:	conj|but art|the n|slipper cop|be&3S adj|magic adv|so inf|to
+	v|speak .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|8|INF 8|4|XCOMP
+	9|4|PUNCT
+*PAR:	and the [//] then with the magic she [/] &uh &um she <gets to go to
+	the> [/] gets to go to the ball . 769079_777136
+%mor:	coord|and adv:tem|then prep|with art|the n|magic pro:sub|she
+	v|get-3S prep|to v|go prep|to art|the n|ball .
+%gra:	1|7|LINK 2|7|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*PAR:	I [/] &we I [/] &gra I remember grandmothers was or [/] &w &uh or
+	aunts +//. 777136_781840
+%mor:	pro:sub|I v|remember grand#n|mother-PL aux|be&PAST&13S coord|or
+	n|aunt-PL +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	I think they were aunts . 781840_782854
+%mor:	pro:sub|I v|think pro:sub|they cop|be&PAST n|aunt-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*PAR:	they were very ticked off &=laughs . 782854_785067
+%mor:	pro:sub|they cop|be&PAST adv|very v|tick-PAST adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|2|PUNCT
+*PAR:	&uh &uh (be)cause they [//] &w I guess they wanted +... 785067_788058
+%mor:	conj|because pro:sub|I v|guess pro:sub|they v|want-PAST +...
+%gra:	1|3|LINK 2|3|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and &um I [/] &th I remember that it's &uh about midnight . 788058_793839
+%mor:	coord|and pro:sub|I v|remember rel|that pro|it~cop|be&3S adv|about
+	mid#n|night&dn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|JCT 8|6|PRED
+	9|3|PUNCT
+*PAR:	&i that's the &=hand:grasps witching hour when the pumpkin turns
+	&=hand:turns <back into &uh or what> [//] turns in whatever . 793839_799933
+%mor:	pro:dem|that~cop|be&3S art|the adj|witching n|hour conj|when
+	art|the n|pumpkin n|turn-PL v|turn-3S prep|in pro:wh|whatever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*PAR:	it's not good &=laughs . 799933_801500
+%mor:	pro|it~cop|be&3S neg|not adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	and [/] &uh and [/] &um &=coughs and &uh &uh you_know I guess
+	you_know the [/] the slipper +... 801500_810439
+%mor:	coord|and co|you_know pro:sub|I v|guess co|you_know art|the
+	n|slipper +...
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|COM 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR:	and she loses her slipper . 810439_812015
+%mor:	coord|and pro:sub|she v|lose-3S pro:poss:det|her n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	ah &uh she loses her slipper . 812015_814054
+%mor:	co|ah pro:sub|she v|lose-3S pro:poss:det|her n|slipper .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	and then they [//] the prince wants to see where this girl came
+	from . 814054_819205
+%mor:	coord|and adv:tem|then art|the n|prince v|want-3S inf|to v|see
+	adv:wh|where det|this n|girl v|come&PAST prep|from .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|COMP 12|11|JCT 13|5|PUNCT
+*PAR:	you_know she [: he] [* s:r-ret] [* p:w-ret] [//] he wantsa
+	[: wants to] see her again . 819205_821911
+%mor:	co|you_know pro:sub|he v|want-3S inf|to v|see pro:obj|her adv|again
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*PAR:	so &uh he sends his you_know &y this is dɔɹmɪt@u [: x@n] [* n:uk]
+	or evil times or somewhere like that . 821911_828802
+%mor:	co|so pro:sub|he v|send-3S pro:poss:det|his co|you_know
+	pro:dem|this cop|be&3S neo|x coord|or n|evil n|time-PL coord|or
+	n|somewhere prep|like pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|7|COM 6|7|SUBJ 7|3|COMP 8|7|PRED
+	9|8|CONJ 10|11|MOD 11|9|COORD 12|11|CONJ 13|12|COORD 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+*PAR:	<and it's> [//] &um <and she> [//] &uh and they test all the people
+	you_know &uh on the town to see <who the slipper> [//] whether it
+	fits them . 828802_839717
+%mor:	coord|and pro:sub|they v|test qn|all art|the n|person&PL
+	co|you_know prep|on art|the n|town inf|to v|see conj|whether pro|it
+	v|fit-3S pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|3|COM 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|8|POBJ 13|15|LINK 14|15|SUBJ 15|12|CJCT
+	16|15|OBJ 17|3|PUNCT
+*PAR:	finally it flɪts@u [: fits] [* p:n-ret] [//] fits Cinderella . 839717_842116
+%mor:	adv|final&dadj-LY pro|it v|fit-3S n:prop|Cinderella .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and <I don't know> [//] she lives happily ever &=laughs rafter
+	[: after] [* p:w] . 842116_845476
+%mor:	coord|and pro:sub|she v|live-3S adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	I dunno [: don't know] what you_know but yeah . [+ exc] 845476_848182
+%mor:	pro:sub|I mod|do~neg|not v|know pro:wh|what co|you_know conj|but
+	co|yeah .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|OBJ 6|7|COM 7|4|COMP 8|7|INCROOT
+	9|8|PUNCT
+*INV:	+< okay . 847622_848706
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	Sandwich
+*INV:	now we're gonna do something a little different . 848706_851392
+%mor:	adv|now pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do
+	pro:indef|something art|a adj|little adj|different .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|10|DET
+	9|10|MOD 10|6|JCT 11|4|PUNCT
+*INV:	tell me how you would make a peanut butter and jelly sandwich . 851392_856214
+%mor:	v|tell pro:obj|me adv:wh|how pro|you mod|will&COND v|make art|a
+	n|peanut n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|12|MOD 12|10|COORD 13|1|PUNCT
+*PAR:	&um <I would> [/] &m &m &p <I would> [/] I would put the [/] &mp
+	&uh the bread out . 856214_863120
+%mor:	pro:sub|I mod|will&COND v|put&ZERO art|the n|bread adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and bread &=hand:side one side and &=hand:side bread on the other
+	side . 863120_865994
+%mor:	coord|and n|bread det:num|one n|side coord|and n|bread prep|on
+	art|the qn|other n|side .
+%gra:	1|4|LINK 2|4|MOD 3|4|QUANT 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|NJCT
+	8|10|DET 9|10|QUANT 10|7|POBJ 11|4|PUNCT
+*PAR:	I would &=hand:put put the jelly or the &uh peanut butter on the
+	inside . 865994_871279
+%mor:	pro:sub|I mod|will&COND v|put&ZERO art|the n|jelly coord|or art|the
+	n|peanut n|butter prep|on art|the adj|inside .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and then &=hand:slap slap the &uh whatdya [: what do you] call it
+	on &=ges:shrugs top . 871279_873983
+%mor:	coord|and adv:tem|then v|slap art|the pro:wh|what mod|do pro|you
+	v|call pro|it prep|on n|top .
+%gra:	1|3|LINK 2|3|JCT 3|8|LINK 4|5|DET 5|8|SUBJ 6|8|AUX 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|8|PUNCT
+*PAR:	then it &=hand:cut . 873983_875300
+%mor:	adv:tem|then pro|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	whatever . [+ exc] 875300_876088
+%mor:	pro:wh|whatever .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright . 876088_877086
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	www . 877086_1734567
+%exp:	session continues with testing (BNT, VNT, repetition) not
+	transcribed
+@End

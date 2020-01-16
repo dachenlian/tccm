@@ -1,0 +1,97 @@
+@Font:	Courier:18:0
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator, MOT Mother
+@ID:	eng|10137901_CON_1.sltin|CHI|||||Target_Child|||
+@ID:	eng|10137901_CON_1.sltin|INV|||||Investigator|||
+@ID:	eng|10137901_CON_1.sltin|MOT|||||Mother|||
+@Time Start:	00:00
+@Comment:	Name: 10137901, Gender: F, DOB: 11/16/2007, DOE: 5/16/2011,
+	CA: 3;6, Context: CON, Transcriber: Keegan Koehlinger, Begin
+	Conversational Language Sample
+*CHI:	and this looks sticky .
+%mor:	coord|and det|this n|look-PL n|sticky .
+%com:	POST error
+*CHI:	gooey .
+%mor:	adj|gooey .
+%com:	no
+*CHI:	blue .
+%mor:	adj|blue .
+%com:	no
+*CHI:	yeah I like all of the colors .
+%mor:	co|yeah pro:sub|I v|like qn|all prep|of det|the n|color-PL .
+%com:	works
+*CHI:	because I want this to be flat .
+%mor:	conj|because pro:sub|I v|want det|this inf|to cop|be n|flat .
+%com:	works
+*CHI:	I'll flip it up .
+%mor:	pro:sub|I~mod|will v|flip pro|it adv:loc|up .
+%com:	works
+*CHI:	a xxx .
+%mor:	det|a .
+%com:	no
+*CHI:	I'll smell it .
+%mor:	pro:sub|I~mod|will v|smell pro|it .
+%com:	works
+*CHI:	it doesn't .
+%mor:	pro|it mod|do&3S~neg|not .
+%com:	works
+*CHI:	it smells like playdough .
+%mor:	pro|it v|smell-3S prep|like n|+n|play+n|dough .
+%com:	works
+*CHI:	a bowl's yellow .
+%mor:	det|a n|bowl~poss|s adj|yellow .
+%com:	POST error
+*CHI:	I try .
+%mor:	pro:sub|I v|try .
+%com:	works
+*CHI:	some balls, I mean some stars .
+%mor:	qn|some n|ball-PL cm|cm pro:sub|I v|mean qn|some n|star-PL .
+%com:	works
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%com:	works
+*CHI:	well I don't like meatballs .
+%mor:	co|well pro:sub|I mod|do~neg|not v|like n|meatball-PL .
+%com:	works
+*CHI:	some pancakes .
+%mor:	qn|some n|pancake-PL .
+%com:	no
+*CHI:	we'll go outside and play dressup .
+%mor:	pro:sub|we~mod|will v|go adv:loc|outside coord|and n|play n|+v|dress+ptl|up
+	.
+%com:	works
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%com:	no
+*CHI:	I think so .
+%mor:	pro:sub|I v|think co|so .
+%com:	YES: INCLUDED WHEN USING OLD PRO .CUT, BUT NOT NEW PRO .CUT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%com:	no
+*CHI:	look mama !
+%mor:	v|look n|mama !
+%com:	works
+*CHI:	0it feels sticky .
+%mor:	0pro|it n|feel-PL n|sticky .
+%com:	no
+*CHI:	jump on 0the trampoline .
+%mor:	n|jump prep|on 0det|the n|trampoline .
+%com:	no
+*CHI:	and all of the neighborhood are my &f +/.
+%mor:	coord|and pro:indef|all prep|of det|the n|neighborhood aux|be&PRES co|my
+	+/.
+%com:	no
+*CHI:	all of the neighborhood are my favorite .
+%mor:	pro:indef|all prep|of det|the n|neighborhood cop|be&PRES pro:poss:det|my
+	n|favorite .
+%com:	works
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%com:	no
+*CHI:	what is this ?
+%mor:	pro:wh|what cop|be&3S det|this ?
+%com:	works
+@End

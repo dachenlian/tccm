@@ -1,0 +1,486 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|dss|CHI|1;07.13||||Target_Child|||
+@ID:	eng|dss|INV|||||Investigator|||
+*INV:	what I'd like to do for the next fifteen minutes since +...
+%mor:	pro:wh|what pro:sub|I~mod|genmod v|like inf|to v|do prep|for det|the adj|next
+	det:num|fifteen n|minute-PL prep|since +...
+*INV:	(be)cause I don't know much about your family and stuff is I'd just
+	like to talk okay ?
+%mor:	conj|because pro:sub|I mod|do~neg|not v|know qn|much prep|about pro:poss:det|your
+	n|family coord|and n|stuff aux|be&3S pro:sub|I~mod|genmod adv:int|just
+	co|like prep|to n|talk adj|okay ?
+*CHI:	0 .
+*INV:	so what can you tell me first off about your family ?
+%mor:	co|so pro:wh|what mod|can pro|you v|tell pro:obj|me adv|first prep|off
+	prep|about pro:poss:det|your n|family ?
+*CHI:	okay .
+%mor:	co|okay .
+*CHI:	my cousin likes to ride his bike and he's in baseball .
+%mor:	pro:poss:det|my n|cousin v|like-3S inf|to v|ride pro:poss:det|his n|bike
+	coord|and pro:sub|he~cop|be&3S prep|in n|baseball .
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	he likes to play baseball . [+ dss]
+%mor:	pro:sub|he v|like-3S prep|to n|play n|baseball .
+*INV:	now who's your cousin ?
+%mor:	adv|now rel|who~aux|be&3S pro:poss:det|your n|cousin ?
+*CHI:	and so .
+%mor:	coord|and co|so .
+*CHI:	the dog came out . [+ dsse]
+%mor:	det|the n|dog v|come&PAST adv:loc|out .
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	and one day .
+%mor:	coord|and det:num|one n|day .
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*CHI:	a long time ago .
+%mor:	det|a adj|long n|time adv|ago .
+*INV:	&uh huh .
+%mor:	co|huh .
+*CHI:	he went to town .
+%mor:	pro:sub|he v|go&PAST prep|to n|town .
+*INV:	yeah .
+%mor:	co|yeah .
+*INV:	you guys went to town together a long time ago ?
+%mor:	pro|you n|guy-PL v|go&PAST prep|to n|town adv|together det|a adj|long
+	n|time adv|ago ?
+*CHI:	0 .
+*INV:	you did ?
+%mor:	pro|you v|do&PAST ?
+*CHI:	it was me +...
+%mor:	pro|it cop|be&PAST&13S pro:obj|me +...
+*INV:	tell me what you did ?
+%mor:	v|tell pro:obj|me pro:wh|what pro|you v|do&PAST ?
+*CHI:	it was me and Edward .
+%mor:	pro|it cop|be&PAST&13S pro:obj|me coord|and n:prop|Edward .
+*INV:	you did .
+%mor:	pro|you v|do&PAST .
+*INV:	really ?
+%mor:	adv:int|really ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*CHI:	and we found our way back .
+%mor:	coord|and pro:sub|we v|find&PAST pro:poss:det|our n|way adv:loc|back .
+*INV:	you went to town together ?
+%mor:	pro|you v|go&PAST prep|to n|town adv|together ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*CHI:	we went to town together . [+ imit]
+%mor:	pro:sub|we v|go&PAST prep|to n|town adv|together .
+*INV:	how did you get there ?
+%mor:	adv:wh|how mod|do&PAST pro|you v|get adv:loc|there ?
+*CHI:	we ride our bikes .
+%mor:	pro:sub|we v|ride pro:poss:det|our n|bike-PL .
+*INV:	where in town did you go ?
+%mor:	adv:wh|where prep|in n|town v|do&PAST pro|you v|go ?
+*CHI:	we went to the +...
+%mor:	pro:sub|we v|go&PAST prep|to det|the +...
+*CHI:	we went looking around .
+%mor:	pro:sub|we v|go&PAST n:gerund|look-PROG adv:loc|around .
+*CHI:	we didn't have a shirt on .
+%mor:	pro:sub|we mod|do&PAST~neg|not v|have det|a n|shirt adv|on .
+*INV:	you're kidding .
+%mor:	pro|you~aux|be&PRES part|kid-PROG .
+*CHI:	we went into a store and he didn't .
+%mor:	pro:sub|we v|go&PAST prep|into det|a n|store coord|and pro:sub|he mod|do&PAST~neg|not
+	.
+*CHI:	(be)cause he didn't see it and +/.
+%mor:	conj|because pro:sub|he mod|do&PAST~neg|not v|see pro|it coord|and +/.
+*INV:	that said no shirt no shoes no service ?
+%mor:	rel|that v|say&PAST qn|no n|shirt qn|no n|shoe-PL qn|no n|service ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	and he got in trouble ?
+%mor:	coord|and pro:sub|he v|get&PAST prep|in n|trouble ?
+*CHI:	he was mad .
+%mor:	pro:sub|he cop|be&PAST&13S adj|mad .
+*INV:	&uh huh .
+%mor:	co|huh .
+*CHI:	and then .
+%mor:	coord|and adv:tem|then .
+*INV:	now did you guys get in trouble ?
+%mor:	adv|now v|do&PAST pro|you n|guy-PL v|get prep|in n|trouble ?
+*INV:	for going downtown ?
+%mor:	prep|for n:gerund|go-PROG adj|downtown ?
+*CHI:	huhuh .
+%mor:	co|huhuh .
+*INV:	you didn't ?
+%mor:	pro|you mod|do&PAST~neg|not ?
+*CHI:	they didn't even know .
+%mor:	pro:sub|they mod|do&PAST~neg|not adv:int|even v|know .
+*INV:	so you snuck downtown huh ?
+%mor:	conj|so pro|you v|sneak&PAST n|downtown co|huh ?
+*INV:	now where does your brother live ?
+%mor:	adv|now rel|where v|do&3S pro:poss:det|your n|brother v|live ?
+*CHI:	with my grampa .
+%mor:	prep|with pro:poss:det|my n|grampa .
+*INV:	okay now you live with your grampa too right ?
+%mor:	co|okay adv|now pro|you v|live prep|with pro:poss:det|your n|grampa post|too
+	adv|right ?
+*CHI:	he likes to play fight .
+%mor:	pro:sub|he v|like-3S prep|to n|play n|fight .
+*INV:	he does ?
+%mor:	pro:sub|he v|do&3S ?
+*INV:	how come ?
+%mor:	adv:wh|how v|come ?
+*CHI:	(be)cause it's fun .
+%mor:	conj|because pro|it~cop|be&3S adj|fun .
+*INV:	oh yeah ?
+%mor:	co|oh co|yeah ?
+*INV:	what kind of fighting ?
+%mor:	pro:wh|what n|kind prep|of n:gerund|fight-PROG ?
+*INV:	tell me about what you guys fight .
+%mor:	v|tell pro:obj|me prep|about pro:wh|what pro|you n|guy-PL n|fight .
+*CHI:	we punch .
+%mor:	pro:sub|we v|punch .
+*INV:	yeah ?
+%mor:	co|yeah ?
+*CHI:	we jump on each another .
+%mor:	pro:sub|we v|jump prep|on qn|each qn|another .
+*CHI:	we clothesline@n .
+%mor:	pro:sub|we neo|clothesline .
+*INV:	what's clotheslining@n ?
+%mor:	pro:wh|what~aux|be&3S neo|clotheslining ?
+*CHI:	like there's one person right here .
+%mor:	co|like adv:loc|there~aux|be&3S det:num|one n|person adv|right adv:loc|here
+	.
+*INV:	&uh huh .
+%mor:	co|huh .
+*CHI:	and they can +...
+%mor:	coord|and pro:sub|they mod|can +...
+*CHI:	it goes like this with their hands .
+%mor:	pro|it v|go-3S prep|like pro:dem|this prep|with pro:poss:det|their n|hand-PL
+	.
+*INV:	oh I got it .
+%mor:	co|oh pro:sub|I v|get&PAST pro|it .
+*INV:	and you knock them over ?
+%mor:	coord|and pro|you v|knock pro:obj|them adv:loc|over ?
+*INV:	okay .
+%mor:	co|okay .
+*INV:	so +/.
+%mor:	co|so +/.
+*CHI:	and they fall down .
+%mor:	coord|and pro:sub|they v|fall adv:loc|down .
+*INV:	okay now do you live with your grandma too ?
+%mor:	co|okay adv|now v|do pro|you v|live prep|with pro:poss:det|your n|grandma
+	post|too ?
+*CHI:	huhuh .
+%mor:	co|huhuh .
+*INV:	just your grandpa ?
+%mor:	adj|just pro:poss:det|your n|grandpa ?
+*INV:	got it .
+%mor:	v|get&PAST pro|it .
+*CHI:	I got two grandpas .
+%mor:	pro:sub|I v|get&PAST det:num|two n|grandpa-PL .
+*INV:	you do ?
+%mor:	pro|you v|do ?
+*INV:	do you live with both of them ?
+%mor:	mod|do pro|you v|live prep|with qn|both prep|of pro:obj|them ?
+*CHI:	no .
+%mor:	co|no .
+*INV:	no where'd you +/.
+%mor:	co|no rel|where~mod|genmod pro|you +/.
+*CHI:	one has a bird foot .
+%mor:	det:num|one v|have&3S det|a n|bird n|foot .
+*INV:	a big foot ?
+%mor:	det|a adj|big n|foot ?
+*INV:	yeah ?
+%mor:	co|yeah ?
+*INV:	really ?
+%mor:	adv:int|really ?
+*CHI:	he gave me it .
+%mor:	pro:sub|he v|give&PAST pro:obj|me pro|it .
+*INV:	oh yeah ?
+%mor:	co|oh co|yeah ?
+*INV:	is it fun ?
+%mor:	aux|be&3S pro|it n|fun ?
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+*INV:	yeah now where's your other grandpa live ?
+%mor:	co|yeah adv|now rel|where~aux|be&3S pro:poss:det|your qn|other n|grandpa
+	v|live ?
+*CHI:	Grants .
+%mor:	n:prop|Grants .
+*INV:	oh okay .
+%mor:	co|oh co|okay .
+*INV:	so this grandpa lives here right ?
+%mor:	conj|so det|this n|grandpa n|life-PL adv:loc|here adv|right ?
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+*INV:	now do you have any brothers or sisters ?
+%mor:	adv|now v|do pro|you v|have qn|any n|brother-PL coord|or n|sister-PL ?
+*CHI:	ah one half sister .
+%mor:	co|ah det:num|one n|half n|sister .
+*INV:	okay .
+%mor:	co|okay .
+*INV:	tell me a little bit about her .
+%mor:	v|tell pro:obj|me det|a adj|little n|bit prep|about pro:obj|her .
+*CHI:	&um (.) she has a bird . [+ tr]
+%mor:	pro:sub|she v|have&3S det|a n|bird .
+*INV:	she does have a bird .
+%mor:	pro:sub|she mod|do&3S v|have det|a n|bird .
+*CHI:	I used to .
+%mor:	pro:sub|I v|use-PAST inf|to .
+*INV:	yeah ?
+%mor:	co|yeah ?
+*INV:	tell me about your bird .
+%mor:	v|tell pro:obj|me prep|about pro:poss:det|your n|bird .
+*CHI:	have .
+%mor:	v|have .
+*CHI:	I used to have one but it died .
+%mor:	pro:sub|I v|use-PAST inf|to v|have pro:indef|one conj|but pro|it v|die-PAST
+	.
+*CHI:	they were playing darts and just as he threw the dart +/.
+%mor:	pro:sub|they aux|be&PAST adj:part|play-PROG v|dart-3S coord|and adv:int|just
+	conj|as pro:sub|he v|throw&PAST det|the v|dart +/.
+*INV:	the bird flies ?
+%mor:	det|the n|bird n|fly-PL ?
+*CHI:	yeah the bird flew .
+%mor:	co|yeah det|the n|bird v|fly&PAST .
+*CHI:	and the dart went like this .
+%mor:	coord|and det|the v|dart v|go&PAST prep|like pro:dem|this .
+*INV:	oh no .
+%mor:	co|oh co|no .
+*CHI:	and he flew a little bit and he hit my dad's xxx then .
+%mor:	coord|and pro:sub|he v|fly&PAST det|a adj|little n|bit coord|and pro:sub|he
+	v|hit&ZERO pro:poss:det|my n|dad~poss|s adv:tem|then .
+*INV:	oh and he died .
+%mor:	co|oh coord|and pro:sub|he v|die-PAST .
+*INV:	that's too bad .
+%mor:	pro:dem|that~cop|be&3S adv:int|too adj|bad .
+*CHI:	and then the guy bought me two +/.
+%mor:	coord|and adv:tem|then det|the n|guy v|buy&PAST pro:obj|me det:num|two
+	+/.
+*INV:	two more birds .
+%mor:	det:num|two adv|more n|bird-PL .
+*CHI:	xxx I only had one .
+%mor:	pro:sub|I adv|only part|have&PERF pro:indef|one .
+*INV:	oh yeah .
+%mor:	co|oh co|yeah .
+*CHI:	and then +/.
+%mor:	coord|and adv:tem|then +/.
+*INV:	what was your bird's name .
+%mor:	pro:wh|what cop|be&PAST&13S pro:poss:det|your n|bird~poss|s n|name .
+*CHI:	Maxie .
+%mor:	n:prop|Maxie .
+*INV:	Maxie .
+%mor:	n:prop|Maxie .
+*CHI:	well I didn't name the other ones .
+%mor:	co|well pro:sub|I mod|do&PAST~neg|not v|name det|the qn|other pro:indef|one-PL
+	.
+*INV:	no you didn't ?
+%mor:	co|no pro|you mod|do&PAST~neg|not ?
+*CHI:	I named one of those Tweetie_Pie .
+%mor:	pro:sub|I v|name-PAST pro:indef|one prep|of det|those n:prop|Tweetie_Pie
+	.
+*CHI:	and the other one +/.
+%mor:	coord|and det|the qn|other pro:indef|one +/.
+*INV:	that's a good name for a bird .
+%mor:	pro:dem|that~cop|be&3S det|a adj|good n|name prep|for det|a n|bird .
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	Tweetie Loonie_Tunes .
+%mor:	n:prop|Tweetie n:prop|Loonie_Tunes .
+*INV:	Tweetie ?
+%mor:	n:prop|Tweetie ?
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	hey how come you got those stickers ?
+%mor:	co|hey adv:wh|how v|come pro|you v|get&PAST det|those n|sticker-PL ?
+*INV:	oh those are all the one's that you guys take off and that fall on
+	the floor xxx you guys sneak out of class .
+%mor:	co|oh pro:dem|those cop|be&PRES qn|all det|the pro:indef|one~mod|do&3S
+	rel|that pro|you n|guy-PL v|take adv|off coord|and rel|that v|fall prep|on
+	det|the n|floor pro|you n|guy-PL n|sneak prep|out prep|of n|class .
+*INV:	and I put them all back on the bulletin board .
+%mor:	coord|and pro:sub|I v|put&ZERO pro:obj|them post|all adv:loc|back prep|on
+	det|the n|bulletin n|board .
+*INV:	those are all the snuck stickers .
+%mor:	pro:dem|those cop|be&PRES qn|all det|the v|sneak&PAST n|sticker-PL .
+*INV:	and you think I never get them back .
+%mor:	coord|and pro|you v|think pro:sub|I adv|never v|get pro:obj|them adv:loc|back
+	.
+*INV:	okay now +/.
+%mor:	co|okay adv|now +/.
+*CHI:	what are those ?
+%mor:	pro:wh|what cop|be&PRES det|those ?
+*INV:	do you have any other pets ?
+%mor:	mod|do pro|you v|have qn|any qn|other n|pet-PL ?
+*INV:	huh ?
+%mor:	co|huh ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	what kind do you have .
+%mor:	pro:wh|what n|kind v|do pro|you v|have .
+*CHI:	two dogs .
+%mor:	det:num|two n|dog-PL .
+*INV:	wait a minute you have dogs ?
+%mor:	v|wait det|a n|minute pro|you v|have n|dog-PL ?
+*CHI:	yeah .
+%mor:	co|yeah .
+*INV:	tell me about your dogs .
+%mor:	v|tell pro:obj|me prep|about pro:poss:det|your n|dog-PL .
+*CHI:	I got a chowchow .
+%mor:	pro:sub|I v|get&PAST det|a n|chowchow .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	a akita and a little black akita .
+%mor:	det|a n|akita coord|and det|a adj|little n|black n|akita .
+*CHI:	and I used to have one .
+%mor:	coord|and pro:sub|I v|use-PAST inf|to v|have pro:indef|one .
+*CHI:	he was a akita .
+%mor:	pro:sub|he cop|be&PAST&13S det|a n|akita .
+*CHI:	xxx but he died .
+%mor:	conj|but pro:sub|he v|die-PAST .
+*INV:	really what happened ?
+%mor:	adv:int|really pro:wh|what v|happen-PAST ?
+*CHI:	(be)cause like you know when they get old and they die .
+%mor:	conj|because prep|like pro|you v|know conj|when pro:sub|they v|get adj|old
+	coord|and pro:sub|they v|die .
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	that's what happened .
+%mor:	pro:dem|that~cop|be&3S pro:wh|what v|happen-PAST .
+*INV:	so he got really old .
+%mor:	co|so pro:sub|he v|get&PAST adv:int|really adj|old .
+*CHI:	he couldn't walk anymore .
+%mor:	pro:sub|he mod|could~neg|not v|walk adv|anymore .
+*CHI:	but he could walk .
+%mor:	conj|but pro:sub|he mod|could v|walk .
+*CHI:	but he would go like this .
+%mor:	conj|but pro:sub|he mod|will&COND v|go prep|like pro:dem|this .
+*INV:	so he could walk but he couldn't run ?
+%mor:	co|so pro:sub|he mod|could v|walk conj|but pro:sub|he mod|could~neg|not
+	n|run ?
+*INV:	oh so he just kinda crawled .
+%mor:	co|oh co|so pro:sub|he adv:int|just adv:int|kinda v|crawl-PAST .
+*INV:	he got very old the right ?
+%mor:	pro:sub|he v|get&PAST adv:int|very adj|old det|the adj|right ?
+*CHI:	yeah he did .
+%mor:	co|yeah pro:sub|he v|do&PAST .
+*CHI:	grandpa's bed he laid down .
+%mor:	n|grandpa~poss|s n|bed pro:sub|he v|lay&PAST adv:loc|down .
+*INV:	and so he laid down by your grandpa's friends and stuff .
+%mor:	coord|and co|so pro:sub|he v|lay&PAST prep|down prep|by pro:poss:det|your
+	n|grandpa~poss|s n|friend-PL coord|and n|stuff .
+*CHI:	no .
+%mor:	co|no .
+*CHI:	by his fence .
+%mor:	prep|by pro:poss:det|his n|fence .
+*INV:	his fence okay .
+%mor:	pro:poss:det|his n|fence adj|okay .
+*INV:	now you have another chowchow ?
+%mor:	adv|now pro|you v|have qn|another n|chowchow ?
+*CHI:	one .
+%mor:	pro:indef|one .
+*INV:	one chowchow ?
+%mor:	det:num|one n|chowchow ?
+*INV:	tell me about him ?
+%mor:	v|tell pro:obj|me prep|about pro:obj|him ?
+*CHI:	&um (.) he likes me to take him for walks . [+ tr]
+%mor:	pro:sub|he v|like-3S pro:obj|me inf|to v|take pro:obj|him prep|for n|walk-PL
+	.
+*INV:	he likes you to take him for walks ?
+%mor:	pro:sub|he v|like-3S pro|you inf|to v|take pro:obj|him prep|for n|walk-PL
+	?
+*INV:	what kind of stuff do you do on your walks .
+%mor:	pro:wh|what n|kind prep|of n|stuff v|do pro|you v|do prep|on pro:poss:det|your
+	n|walk-PL .
+*CHI:	I take him around the block .
+%mor:	pro:sub|I v|take pro:obj|him prep|around det|the n|block .
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	and sometimes I +...
+%mor:	coord|and adv|sometimes pro:sub|I +...
+*CHI:	one day I rode my bike with him and he make me fall down .
+%mor:	det:num|one n|day pro:sub|I v|ride&PAST pro:poss:det|my n|bike prep|with
+	pro:obj|him coord|and pro:sub|he v|make pro:obj|me v|fall adv:loc|down
+	.
+*INV:	oh you took him for a ride on your bike and he make you fall down ?
+%mor:	co|oh pro|you v|take&PAST pro:obj|him prep|for det|a n|ride prep|on pro:poss:det|your
+	n|bike coord|and pro:sub|he v|make pro|you v|fall adv:loc|down ?
+*INV:	so what happened ?
+%mor:	co|so pro:wh|what v|happen-PAST ?
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+*INV:	tell me about this .
+%mor:	v|tell pro:obj|me prep|about pro:dem|this .
+*CHI:	he like pulled me this way .
+%mor:	pro:sub|he v|like v|pull-PAST pro:obj|me det|this n|way .
+*INV:	yeah .
+%mor:	co|yeah .
+*CHI:	and then I pulled him and I fell .
+%mor:	coord|and adv:tem|then pro:sub|I v|pull-PAST pro:obj|him coord|and pro:sub|I
+	v|fall&PAST .
+*INV:	oh and he pulled you over ?
+%mor:	co|oh coord|and pro:sub|he v|pull-PAST pro|you adv:loc|over ?
+*INV:	oh know that's hard on the bike isn't it ?
+%mor:	co|oh v|know pro:dem|that~cop|be&3S adj|hard prep|on det|the n|bike
+	aux|be&3S~neg|not pro|it ?
+*CHI:	(be)cause he was pulling me .
+%mor:	conj|because pro:sub|he aux|be&PAST&13S part|pull-PROG pro:obj|me .
+*CHI:	and I didn't want to fall .
+%mor:	coord|and pro:sub|I mod|do&PAST~neg|not v|want inf|to v|fall .
+*CHI:	I went this way and I fell .
+%mor:	pro:sub|I v|go&PAST det|this n|way coord|and pro:sub|I v|fall&PAST .
+*INV:	oh no !
+%mor:	co|oh co|no !
+*INV:	so you fell the other way right ?
+%mor:	conj|so pro|you v|fall&PAST det|the qn|other n|way adv|right ?
+*INV:	okay so what's his name .
+%mor:	co|okay co|so pro:wh|what~cop|be&3S pro:poss:det|his n|name .
+*CHI:	Chino .
+%mor:	n:prop|Chino .
+*INV:	Chino .
+%mor:	n:prop|Chino .
+*INV:	Chino what ?
+%mor:	n:prop|Chino pro:wh|what ?
+*CHI:	Chino Chamo Cheese .
+%mor:	n:prop|Chino n:prop|Chamo n:prop|Cheese .
+*INV:	good name .
+%mor:	adj|good n|name .
+*INV:	now .
+%mor:	adv|now .
+*CHI:	and it's all three names .
+%mor:	coord|and pro|it~cop|be&3S adv:int|all det:num|three n|name-PL .
+*INV:	three names ?
+%mor:	det:num|three n|name-PL ?
+*INV:	okay .
+%mor:	co|okay .
+*INV:	and what do they mean ?
+%mor:	coord|and pro:wh|what mod|do pro:sub|they v|mean ?
+*CHI:	like his name .
+%mor:	prep|like pro:poss:det|his n|name .
+*INV:	okay so he's got three names huh ?
+%mor:	co|okay co|so pro:sub|he~aux|be&3S part|get&PERF det:num|three n|name-PL
+	co|huh ?
+*CHI:	Chino and Chamo and Cheese .
+%mor:	n:prop|Chino coord|and n:prop|Chamo coord|and n:prop|Cheese .
+*CHI:	I named him Cheese .
+%mor:	pro:sub|I v|name-PAST pro:obj|him n:prop|Cheese .
+*INV:	okay .
+%mor:	co|okay .
+*CHI:	but my mom said no .
+%mor:	conj|but pro:poss:det|my n|mom v|say&PAST co|no .
+*CHI:	and then she said okay .
+%mor:	coord|and adv:tem|then pro:sub|she v|say&PAST adj|okay .
+*INV:	so everybody's named him right ?
+%mor:	co|so pro:indef|everybody~aux|be&3S v|name-PAST pro:obj|him adj|right
+	?
+*INV:	okay ?
+%mor:	co|okay ?
+*CHI:	then my mom named him two times and I named him once .
+%mor:	adv:tem|then pro:poss:det|my n|mom v|name-PAST pro:obj|him det:num|two
+	n|time-PL coord|and pro:sub|I v|name-PAST pro:obj|him adv|once .
+*INV:	okay so tell me a little bit about your mom +/.
+%mor:	co|okay co|so v|tell pro:obj|me det|a adj|little n|bit prep|about pro:poss:det|your
+	n|mom +/.
+*INV:	what does she do .
+%mor:	pro:wh|what v|do&3S pro:sub|she v|do .
+*CHI:	does she work ?
+%mor:	n|doe-PL pro:sub|she v|work ?
+@End

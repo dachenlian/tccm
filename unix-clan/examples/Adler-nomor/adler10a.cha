@@ -1,0 +1,233 @@
+@Font:	Arial:18:0
+@UTF8
+@PID:	11312/t-00017836-1
+@Begin
+@Languages:	eng
+@Participants:	PAR adler10a Participant, INV Investigator
+@ID:	eng|Aphasia|PAR|44;08.|male|Broca||Participant||51.2|
+@ID:	eng|Aphasia|INV|||||Investigator|||
+@Media:	adler10a, video
+@G:	Speech
+*INV:	I'm gonna be asking you to do some talking . 0_2896
+*PAR:	okay . 2896_3882
+*INV:	&-um (.) how do you think your speech is these days ? 3882_8331
+*PAR:	slow [/] (.) slow . 8331_11891
+*PAR:	&-um <what if> [//] &-um my [//] &-um &f &-um (..) what about &-um
+	(.) speech ? [+ gram] 11891_26539
+*PAR:	no good &=head:no „ yeah &=head:yes . 26539_29752
+@G:	Stroke
+*INV:	(o)kay do you remember when you had your stroke ? 29752_33041
+*PAR:	yeah &=head:yes . 33041_34201
+*INV:	could you tell me about it ? 34201_36171
+*PAR:	sleepin(g) &=laughs . [+ gram] 36171_39000
+*PAR:	sleepin(g) and (.) &-um I try to splain [: explain] it make me &-um
+	(.) &=fingers:counts two three four five six seven . [+ gram] 39000_53800
+*PAR:	alright ? 53800_54909
+*PAR:	sleepin(g) and &=rubs:chest tired . [+ gram] 54909_59010
+*PAR:	just tired man . [+ gram] 59010_61234
+*PAR:	mhm &=head:yes . 61234_63316
+*INV:	(o)kay . 63316_64208
+*PAR:	tell me about your recovery . 64208_66497
+*PAR:	what kinds of things have you done to try to get better since your
+	stroke ? 66497_71577
+*PAR:	exercise <and &-um swimmin(g)> [/] and &-um (.) swimmin(g) and +...
+	71577_86049
+*PAR:	&t two [/] &=ges:two two: swimmin(g) and &=pats:belly
+	&=ges:arm_exercise yeah mhm &=head:yes . [+ gram] 86049_96682
+*INV:	okay . 96682_98034
+@G:	Important_Event
+*INV:	I'm gonna ask you to do a few more things where you needta talk . 98034_101357
+*INV:	please talk as much as you can [>] about each one because we really
+	wanna know about your language . 101357_107351
+*PAR:	okay [<] . 103900_104539
+*PAR:	okay . 107351_107969
+*INV:	okay ? 107969_108838
+*INV:	thinking back [>] can you tell me a story about something important
+	that happened to you in your life ? 108838_118247
+*PAR:	mhm [<] . 111938_112545
+*INV:	it could happy or sad from any time when you were a kid or more
+	recently . 118247_124039
+*PAR:	hm . 124039_125310
+*PAR:	www . 125310_133291
+%exp:	PAR thinks
+*PAR:	hm . 133291_134947
+*PAR:	(.) &-um was [/] &-uh &-um <was it> [//] &-um my speech slows .
+	[+ gram] 134947_151500
+*PAR:	and (..) whether it come back to my father and mother and +... 151500_165512
+*PAR:	&-um <I don't know> [/] &=head:no I don't know . 165512_170756
+*INV:	okay ‡ <so if you can> [//] can you tell me about a trip you took
+	or something about your family ? 170756_176694
+*PAR:	yeah . 176694_177170
+*INV:	yeah ? 177170_178170
+*PAR:	&-um what &-uh &-um do [//] &-uh +... 178170_190794
+*PAR:	&=looks:down &-um (.) hold on . 190794_195004
+*PAR:	&=looks:down &-um what ? 195004_197327
+*PAR:	yeah ‡ this one &=points:right . 197327_198724
+*INV:	<oh can> [//] I wanna ask you not to use it just for now . 198724_202675
+*PAR:	mhm . 202675_203116
+*INV:	and later <I can get> [//] I can let you use it . 203116_205724
+*PAR:	+< okay . 205524_205938
+*INV:	+< I just wanna see how you do without . 205625_207289
+*PAR:	okay . 207289_207690
+*INV:	okay ? 207690_208379
+*PAR:	okay . 208379_209196
+*PAR:	&-um my [//] &-um &=fingers:count <one two three> [//] (.) Ethan
+	and Sky and Edward and [//] &s &-um (..) talked in me (a)bout &-um
+	+... 209196_233273
+*PAR:	&=fingers:count <one two three four five> [//] (.) sleepin(g)
+	&=ges:unsure . [+ gram] 233273_240590
+*PAR:	I don't know &=laughs &=ges:unsure . 240590_242300
+*PAR:	&=head:no try to splain [: explain] it . [+ gram] 242300_244119
+*PAR:	&-um (.) okay &=ges:unsure . 244119_248385
+*INV:	okay . 248385_249468
+@G:	Window
+*INV:	now I'm gonna show you these pictures . 249468_252073
+*INV:	take a little &=points:pictures time to look at these pictures they
+	tell a story . 252073_258604
+*INV:	&=points:pictures take a look at all of them and then I'll ask you
+	to tell me the story with a beginning a middle and an end . 258604_265878
+*INV:	and &=points:pictures you can look at the pictures as you tell the
+	story . 265878_269664
+*PAR:	okay . [+ exc] 269664_271128
+*INV:	okay ? 271128_272117
+*PAR:	&=points:frame_1 ball . [+ gram] 272117_279220
+*PAR:	&=points:frame_2 sleep [* s:per] . [+ gram] 279220_281398
+*PAR:	&-um &=points:frame_1 &=points:frame_2 ball and +... 281398_286902
+*PAR:	&=points:frame_3 window . [+ gram] 286902_289580
+*PAR:	&=points:frame_4 and &=points:frame_3 this one . [+ gram] 289580_296022
+*INV:	&=head:nod . 296022_297444
+*PAR:	&=points:frame_4 &=points:frame_3 and &=points:frame_4 (..) &s +...
+	297444_304424
+*PAR:	&=points:frame_1 this &=points:frame_2 this &=points:frame_3 this
+	&=points:frame_4 this . [+ gram] 304424_309416
+*INV:	(o)kay . 309416_311296
+@G:	Umbrella
+*INV:	here are some more pictures that &=points:pictures tell a story . 311296_317557
+*INV:	&=points:pictures take a look at all of them and then tell me the
+	story you see with a beginning a middle and an end . 317557_323991
+*INV:	and you can &=points:pictures look at the pictures as you tell the
+	story . 323991_329800
+*PAR:	www . [+ exc] 329800_336566
+%exp:	PAR looks at pictures, thinks
+*PAR:	okay &=points:frame_1 this one no &s rain gear [/] [>] rain gear .
+	[+ gram] 336566_345396
+*INV:	&=head:yes [<] . 343896_346075
+*PAR:	&=points:frame_2 sleepin(g) [* s:per] &-um +... 345396_350085
+*PAR:	&=points:frame_3 uhoh [/] uhoh . 350085_353014
+*PAR:	&=points:frame_4 &=points:frame_5 &=points:frame_6 yep . 353014_357320
+@G:	Cat
+*INV:	here is another picture that tells a story . 357320_365674
+*INV:	&=points:picture take a look at everything that's happening and
+	tell me a story about what you see happening with a [>] beginning a
+	middle and an end . 365674_373083
+*PAR:	fire [<] . [+ gram] 370874_371658
+*INV:	yeah . 373083_373958
+*PAR:	www . [+ exc] 373958_386800
+%exp:	PAR looks at picture, thinks
+*PAR:	okay . [+ exc] 386800_387535
+*INV:	okay . 387535_388574
+*PAR:	&-um &=points:firemen firemans [: firemen] [* m:=s] &=points:ladder
+	. [+ gram] 388574_391296
+*PAR:	and &=points:cat tree sleep kitty . [+ gram] 391296_397858
+*PAR:	&-um &=points:tree &=points:firemen &=points:man &=points:ladder
+	&=points:man this one . [+ gram] 397858_404892
+*PAR:	and (.) &=points:tricycle what is this ? [+ exc] 404892_412715
+*PAR:	hm &=points:tricycle (.) &=points:ladder &=points:tree . 412715_419836
+*PAR:	&=points:firemen &=points:dog &=points:man (.) hm . 419836_425287
+*PAR:	dike [: bike] [* p:w-ret] [//] bike and (..) bike . [+ gram] 425287_435330
+*INV:	(o)kay . 435330_437237
+*PAR:	+< &=head:yes mhm . [+ exc] 435330_438269
+@G:	Flood
+*INV:	now take a little time to look at this &=points:picture picture . 438269_443584
+*INV:	when you're ready tell me the story you see with a beginning a
+	middle and an end . 443584_449431
+*PAR:	www . [+ exc] 449431_458010
+%exp:	PAR looks at picture, thinks
+*PAR:	hm okay &=sighs . [+ exc] 458010_462144
+*PAR:	hold on (..) in +... [+ exc] 462144_474800
+*PAR:	&=points:girl (.) hold on +... [+ exc] 474800_487217
+*PAR:	&=points:girl this one . [+ gram] 487217_489681
+*PAR:	&=points:girl okay . [+ exc] 489681_496052
+*INV:	can you see what's going on here &=points:picture ? 496052_499268
+*PAR:	+< yeah . [+ exc] 499000_499500
+*PAR:	&=points:girl this one &=points:man &fa &-um <firemans [: firemen]
+	[* m:=s-rep]> [/] firemans [: firemen] [* m:=s] in (..) yeah .
+	[+ gram] 499216_513964
+*PAR:	&=points:branch fireman and [//] machine [/] <machine no> [//]
+	<machine gun> [//] no &=points:branch &=sighs +... 513964_533300
+*PAR:	mɔɪə˞mæn@u [: fireman] [* n:k] +... 533300_535480
+*PAR:	&=points:girl xxx the one . [+ jar] 535480_538330
+*INV:	mhm . 538330_539426
+*INV:	is there anything else you can tell me that's going on ? 539426_542168
+*PAR:	&=points:branch this . [+ gram] 542168_544811
+*INV:	mhm . 544811_545423
+*PAR:	yep . [+ exc] 545423_545931
+*INV:	okay . 545931_547112
+@G:	Cinderella_intro
+*INV:	now I'm gonna ask you to tell me a story . 547112_557180
+*INV:	have you ever heard of Cinderella ? 557180_559130
+*PAR:	yep &=head:yes . 559130_559941
+*INV:	do you remember much about it ? 559941_562435
+*PAR:	yep . 562435_563087
+*INV:	gonna ask you to take a look through this book [>] to remind you of
+	some of the details . 563087_569915
+*PAR:	mhm [<] . 566515_567277
+*PAR:	mhm . 569915_570585
+*INV:	+< and then I'm gonna take &=ges:away the book away and
+	&=points:book ask you to tell me the story in your own words . 569915_575778
+*PAR:	okay . 575778_576533
+*INV:	okay ? 576533_578091
+*PAR:	this one &=points:stepsisters . 578091_590937
+%com:	PAR looks at pictures as INV turns pages
+*PAR:	mhm &=points:Cinderella . 590937_594129
+*PAR:	mhm . 594129_598023
+*PAR:	mhm . 598023_601343
+*PAR:	mhm . 601343_605731
+*PAR:	(..) mhm . 605731_615376
+*PAR:	&=points:Cinderella this one mhm . 615376_622558
+*PAR:	mhm . 622558_627532
+*PAR:	mhm . 627532_632220
+*PAR:	mhm &=points:stepmother . 632220_635875
+*PAR:	oh alright . 635875_640802
+*INV:	(o)kay now tell me as much of the story of Cinderella as you can
+	and you can use anything you know about the story as_well_as what
+	you saw here in the book . 640802_650703
+@G:	Cinderella
+*PAR:	hm (..) Cinderella (.) this &=ges:draw &-um +... 650703_667333
+*PAR:	I know and (..) I don't know &=laughs . [+ exc] 667333_674889
+*PAR:	(..) sɜ˞ndə˞ɛlə@u [: Cinderella] [* p:n] (.) way &=ges:line way way
+	down (.) fact . [+ gram] 674889_690272
+@G:	Cinderella_intro
+*PAR:	&-um (..) &=ges:squeeze hm &=head:no I don't know . 690272_700463
+*INV:	so ‡ what happened to Cinderella ? 700463_702652
+*PAR:	Cinderella ? 702652_705227
+*PAR:	&-um maybe [/] maybe I try ta [: to] splain [: explain] it . 705227_714364
+*PAR:	Cinderella &=points:book this one . [+ gram] 714364_717290
+*INV:	&=laughs . 717290_718634
+*PAR:	yes &=laughs . 718634_720039
+*INV:	+< okay alright . 719539_721980
+@G:	Sandwich_Picture
+*INV:	do something a_little different now . 721980_724730
+*PAR:	mhm . [+ exc] 724730_725254
+*INV:	tell me how you would make a peanut butter and jelly sandwich . 725254_730582
+*PAR:	okay &-um +... [+ exc] 730582_747396
+*INV:	here are the things you would need . 747396_749269
+%com:	presents picture of sandwich supplies to PAR
+*INV:	can you tell me how you would make a peanut butter and jelly
+	sandwich ? 749269_752612
+*PAR:	+< yep . [+ exc] 752312_753031
+*PAR:	&=points:bread bread &-um &=points:peanut_butter &s &-um this one
+	&=points:jelly this one . [+ gram] 753031_762361
+*PAR:	and &s &=draws this ʃɹʌnz@u [: x@n] [* n:uk] and try eat &=ges:eat
+	. [+ gram] 762361_774877
+*PAR:	mm . [+ exc] 774877_775900
+*INV:	mm . 775900_776726
+*PAR:	mhm . [+ exc] 776726_777902
+*INV:	&=laughs (o)kay . 777902_778794
+*PAR:	+< alright . [+ exc] 778694_779271
+*INV:	alright thank_you . 779271_780939
+*PAR:	+< &=laughs . [+ exc] 779271_780939
+*INV:	www .
+%exp:	continues with testing (BNT, VNT, repetition), sessions are
+	recorded, but not transcribed
+@End
