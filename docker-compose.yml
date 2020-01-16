@@ -1,6 +1,7 @@
 version: "3.7"
 services:
   apache:
+    restart: always
     build: .
     ports:
       - "8080:80"
